@@ -8,7 +8,7 @@
 
 ## About
 
-This is a dummy boilerplate to be used by the team which includes the basic codebase linking the routes defined along with styled components
+This is a dummy boilerplate to be used by the team which includes the basic authentication system, with JWT Token response sent back to client after verification along with Postgres to store the data
 
 ## Installation
 
